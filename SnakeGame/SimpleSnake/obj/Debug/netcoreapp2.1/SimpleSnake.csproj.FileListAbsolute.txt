@@ -1,0 +1,13 @@
+C:\Users\Kami\OneDrive\Documents\OOP C#\SnakeGame\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+C:\Users\Kami\OneDrive\Documents\OOP C#\SnakeGame\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+C:\Users\Kami\OneDrive\Documents\OOP C#\SnakeGame\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+C:\Users\Kami\OneDrive\Documents\OOP C#\SnakeGame\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\Kami\OneDrive\Documents\OOP C#\SnakeGame\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\Kami\OneDrive\Documents\OOP C#\SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.AssemblyReference.cache
+C:\Users\Kami\OneDrive\Documents\OOP C#\SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kami\OneDrive\Documents\OOP C#\SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\Kami\OneDrive\Documents\OOP C#\SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+C:\Users\Kami\OneDrive\Documents\OOP C#\SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\Kami\OneDrive\Documents\OOP C#\SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\Kami\OneDrive\Documents\OOP C#\SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\Kami\OneDrive\Documents\OOP C#\SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.genruntimeconfig.cache
